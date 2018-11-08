@@ -1,0 +1,19 @@
+Package: viper
+Type: Package
+Title: VIsualitaion of Phylogenetics and Evolution with R
+Version: 1.0-0
+Date: 2016-12-01
+Author: Christoph Heibl
+Maintainer: Christoph Heibl <christoph.heibl@gmx.net>
+Depends:
+    ape,
+    ips
+Imports:
+    colorspace
+Suggests:
+    megaptera
+Encoding: UTF-8
+Description: Provides functions for visualization of clades and lineages, node/
+    edge support and more.
+License: GPL (>= 2)
+RoxygenNote: 6.1.0
