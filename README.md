@@ -4,8 +4,9 @@ Provides a set of plotting functions that are developed around `ape:plot.phylo`,
 1. coloring edges and tips
 1. high-lighting clades in phylogenies
 1. showing branch support
-1. HPD intervals on internal nodes of time trees
-1. plot axes and more
+1. HPD intervals on internal nodes of dated phylogenies
+1. plot axes 
+and more.
 
 Some of these function have been formerly included in the deprecated package `phyloch`.
 
